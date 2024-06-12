@@ -1,0 +1,12 @@
+[submodule "plp-Database_Finale"]
+	path = plp-Database_Finale
+	url = git@github.com:Karume-lab/plp-Database_Finale.git
+	branch = main
+[submodule "plp-WebDevelopment_Finale"]
+	path = plp-WebDevelopment_Finale
+	url = git@github.com:Karume-lab/plp-WebDevelopment_Finale.git
+	branch = main
+[submodule "plp-PythonDevelopment_Finale"]
+	path = plp-PythonDevelopment_Finale
+	url = git@github.com:Karume-lab/plp-PythonDevelopment_Finale.git
+	branch = main
